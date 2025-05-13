@@ -1,5 +1,5 @@
 package tests;
-//Giogioanni Morales 6/15/2024 SNHU CS320 
+//Giogioanni Morales 6/15/2024 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
