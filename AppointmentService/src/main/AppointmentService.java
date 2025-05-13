@@ -1,5 +1,5 @@
 package main;
-//Giogioanni Morales 6/15/2024 SNHU CS320 
+//Giogioanni Morales 6/15/2024
 import java.util.HashMap;
 import java.util.Map;
 
