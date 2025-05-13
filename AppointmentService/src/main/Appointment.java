@@ -1,5 +1,5 @@
 package main;
-// Giogioanni Morales 6/15/2024 SNHU CS320 :D
+// Giogioanni Morales 6/15/2024 
 import java.util.Date; // for the appointmentDate field 
 
 public class Appointment {
